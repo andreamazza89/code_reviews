@@ -13,6 +13,9 @@ As a community, we would like to try select people whose code will be communally
 
 There are a number of ways in which people could be selected. One option is listed below. More will be added to discuss, unless everyone is happy with the one proposed.
 
+---
+
+###Option 1
 ####Reviews master
 Each week a person will be randomly selected to be in charge of arranging reviews the following Monday.
 
@@ -23,3 +26,5 @@ These people are then publicly announced so that everyone can have a look at the
 
 ####Code review
 Should any of the 6 not be able to share their code due to time restraints, they will automatically be signed up for the next session (though can decline if they want to).
+
+---
