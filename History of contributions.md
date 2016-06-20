@@ -12,6 +12,9 @@
 |Matt     |   1      |
 |Riya     |   1      |
 |Toby W   |   1      |
+|Van      |  1       |
+|Alistair |  1       |
+|Apoorva  |  1       |
 
 # People who have looked after the selection process
 
